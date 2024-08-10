@@ -1,17 +1,17 @@
 # Base configs
-baseurl: "https://photography.rampatra.com"
+baseurl: "ekwprod.github.io/photography"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography by Ram Patra"
+title: "Photography by Erik Watkins"
 subtitle: "See the world through my eyes!"
-author: "Ram Patra"
+author: "Erik Watkins"
 header:
  title: "Photography"
- subtitle: "by Ram Patra"
+ subtitle: "by Erik Watkins"
 footer:
  name: "Hey there, my name is Ram"
  bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
